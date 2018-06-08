@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      template="/Template/modelo/ModeloPaginas.xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+    <ui:define name="conteudo">
+    <body>
+        <h:form>
+            <p:panel header="Cadastro de cidades">
+                <p:panelGrid columns="2">
+                    <p:outputLabel value="Nome da cidade"/>
+                    <p:inputText value="#{cidadeBean.nomeCidade}"/>
+                    <p:outputLabel value="UF"/>
+                    <p:inputText value="#{cidadeBean.nomeCidade}"/>
+                </p:panelGrid>
+                <p:commandButton value="Cadastrar" action="#{cidadeBean.cadastroMensagem}"/>
+                <p:commandButton value="Excluir" action="#{cidadeBean.excluirMensagem}"/>
+            </p:panel>         
+        </h:form> 
+    </body>
+    </ui:define>
+</ui:composition>

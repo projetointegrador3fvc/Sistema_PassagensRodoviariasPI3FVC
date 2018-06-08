@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="FVC">
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/beans/UsuarioBean.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/modelo/PassagemModelo.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/Login.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/mapeamento/Veiculo.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/VeiculoListenerDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/rn/UsuarioRN.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/beans/CidadeBean.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/rn/CidadeRN.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/CadastroLogin.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/CidadeListenerDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/ConsultaFaturamento.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/UsuarioListenerDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/ConsultaPassagens.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/Cadastro.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/util/ConexaoBD.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/beans/PassagemBean.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/VeiculoDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Template/modelo/ModeloPaginas.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/Viagens.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/PassagemListenerDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/mapeamento/Passagem.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/mapeamento/Usuario.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/util/FabricaDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/CidadeDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/modelo/VeiculoModelo.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/filtro/FiltroConexaoHibernate.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/rn/PassagemRN.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/modelo/UsuarioModelo.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/rn/VeiculoRN.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/mapeamento/Cidade.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/beans/VeiculoBean.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/dao/PassagemDAO.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Template/menus/menu.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/ComprarPassagem.xhtml</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/src/java/br/ba/poo2/modelo/CidadeModelo.java</file>
+            <file>file:/C:/Users/Camila/Desktop/imagensmanual/SONOdaPORRA/ProjetoPrimeFacesPOOIIComMenuEHibernate/web/Telas/index.xhtml</file>
+        </group>
+    </open-files>
+</project-private>

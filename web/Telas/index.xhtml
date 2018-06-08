@@ -1,0 +1,38 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"   
+    xmlns:h="http://java.sun.com/jsf/html"   
+    xmlns:f="http://java.sun.com/jsf/core"   
+    xmlns:ui="http://java.sun.com/jsf/facelets"   
+    xmlns:p="http://primefaces.org/ui"   
+    template="/Template/modelo/ModeloPaginas.xhtml">   
+  
+    <ui:define name="conteudo">   
+        <h:body>
+            <p:panel header="Principal">
+         <h:form style="height: 300px">
+            <p:outputLabel value="Origem"/>
+            <p:inputText value="#{cidadeBean.nomeCidade}"/>
+            <p:outputLabel value="Destino"/>
+            <p:inputText value="#{cidadeBean.nomeCidade}"/>
+            <h:panelGrid columns="2" style="margin-bottom:10px" cellpadding="5">
+                <h:selectOneRadio id="idavolta" value="#{passagemBean.percurso}">
+                    <f:selectItem itemValue="ida" itemLabel="Ida" />
+                    <f:selectItem itemValue="idavolta" itemLabel="Ida e Volta"/>
+                </h:selectOneRadio>         
+            </h:panelGrid>
+            <p:outputLabel value="Data de ida" />
+            <p:calendar pattern="dd/MM/yyyy" locale="pt" id="dataida" value="#{passagemBean.dtsai}">
+            
+        </p:calendar>
+            <p:outputLabel value="Data de volta" />
+            <p:calendar pattern="dd/MM/yyyy" locale="pt" id="datavolta" value="#{passagemBean.dtvolta}">
+            
+        </p:calendar>
+            <p:commandButton value="Buscar passagem" action="Login.SPR"/>
+        </h:form>
+           </p:panel>
+    </h:body>
+    </ui:define>  
+
+ 
+</ui:composition>
+
